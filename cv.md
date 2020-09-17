@@ -23,8 +23,13 @@ After discovering RS School I realized that it's the opportunity to accept a new
 
 HTML, CSS, JS 
 
--------------------------
+--------------------------
 
+### Code Examples
+
+The code is available via link  https://foxy-bat.github.io/rsschool-cv/code_example.js  It contains 2 tasks from https://www.codecademy.com/learn/introduction-to-javascript which I performed during my self-education process. 
+
+---------------------------
 
 ### Education
 
